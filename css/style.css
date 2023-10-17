@@ -1,0 +1,50 @@
+body{
+    background-color: hsla(266, 64%, 76%, 0.601);
+}
+.baslik{
+    text-align: center;
+}
+.baslik h1{
+    
+    color: red;
+    
+}
+.baslik h2{
+    
+    color: purple;
+    
+}
+.baslik h3{
+    
+    color: rgb(255, 0, 242);
+    
+}
+ul {
+    
+    margin-left: 850px;
+    
+}
+h4 {
+        
+    color: rgb(124, 15, 15);
+    font-size: larger;
+        
+}
+.product{
+    font-size: larger;
+}
+.product img{
+    width: 300px;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.product h5{
+    text-align: center;
+    color: rgba(56, 0, 0, 0.753);
+}
+.product #text{
+    margin-left: 700px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
